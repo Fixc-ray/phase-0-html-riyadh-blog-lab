@@ -8,11 +8,13 @@ html, body {
 body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
-  background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
-
+body{
+  background: url(../images/backgrounds/architecture.jpg);
+  background-size: cover;
+}
 .wrapper {
   margin: 0 auto;
   width: 60%;
